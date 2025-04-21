@@ -1,0 +1,4 @@
+{
+  "welcome": "Selamat datang di Vue 3 + TypeScript + Vite",
+  "description": "Aplikasi ini dibuat dengan Vue 3, TypeScript, Tailwind CSS, SCSS, Vue Router, dan Vue I18n"
+}
